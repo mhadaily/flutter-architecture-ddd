@@ -22,7 +22,7 @@ class CatalogListBloc extends Bloc<CatalogListEvent, CatalogListState> {
   }
 
   Stream<CatalogListLoadedState> _mapFetchCatalogEventToState() async* {
-    final List<Product> products = await catalogService.all();
+    final List<Product> products = await catalogService.fetchProducts();
     yield CatalogListLoadedState(products);
   }
 }
