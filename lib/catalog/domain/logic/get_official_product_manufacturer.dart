@@ -1,5 +1,5 @@
-String getOfficialProductManufacturer(String type) {
-  switch (type) {
+String getOfficialProductManufacturer(String productType) {
+  switch (productType) {
     case 'variable':
       return 'Manufacturer number 1';
       break;

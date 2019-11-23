@@ -1,5 +1,5 @@
 mixin CatalogLogic {
-  String getOfficialProductManufacturer(String id) {
-    return getOfficialProductManufacturer(id);
+  String getOfficialProductManufacturer(String productType) {
+    return getOfficialProductManufacturer(productType);
   }
 }
