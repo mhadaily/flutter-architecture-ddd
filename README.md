@@ -1,6 +1,6 @@
 # Flutter Architecture inspired by Domain Driven Design
 
-Please take a look at my slides to learn more [Strategic Domain Driven Design For Improving Flutter Architecture](https://bit.ly/ddd-fluter)
+Please take a look at my slides to learn more [Strategic Domain Driven Design For Improving Flutter Architecture](https://bit.ly/ddd-flutter)
 
 <p align="center">
 <a href="https://bit.ly/ddd-fluter" target="_blank">
