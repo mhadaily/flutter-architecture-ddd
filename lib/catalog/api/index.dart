@@ -4,7 +4,7 @@ import 'package:flutter_architecture_ddd/catalog/domain/entities/product.dart';
 import 'package:flutter_architecture_ddd/injections.dart';
 
 class CatalogApi {
-  final CatalogFacadeService catalogFacase = serviceLocator<CatalogFacadeService>();
+  final CatalogFacadeService catalogFacade = serviceLocator<CatalogFacadeService>();
 
   Future<List<Product>> getProducts() async {
     return catalogFacase.fetchProducts();
