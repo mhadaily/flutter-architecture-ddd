@@ -7,14 +7,14 @@ class CatalogApi {
   final CatalogFacadeService catalogFacade = serviceLocator<CatalogFacadeService>();
 
   Future<List<Product>> getProducts() async {
-    return catalogFacase.fetchProducts();
+    return catalogFacade.fetchProducts();
   }
 
   Future<Product> getProduct(String id) async {
-    return catalogFacase.getProduct(id);
+    return catalogFacade.getProduct(id);
   }
 
   String getOfficialProductManufacturer(String id) {
-    return catalogFacase.getOfficialProductManufacturer(id);
+    return catalogFacade.getOfficialProductManufacturer(id);
   }
 }
