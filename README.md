@@ -4,15 +4,20 @@ Please take a look at my slides to learn more [Strategic Domain Driven Design Fo
 
 Two architecutre for two types of applications:
 
-- Enterprise
-- Simple
+- Simple [Link to Theory](#simple-architecture-for-smaller-application) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/enterprise)
+- Enterprise [Link to Theory](#enterprise-flutter-architecture-for-large-applications) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/simple)
 
+<br/>
+<br/>
+<br/>
 <p align="center">
     <a href="https://bit.ly/ddd-fluter" target="_blank">
         <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/1.png" width="100%">
-        <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/2.png" width="100%">
     </a>
 </p>
+<br/>
+<br/>
+<br/>
 
 ## Simple architecture for smaller application
 
@@ -24,8 +29,11 @@ Two architecutre for two types of applications:
         <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/simple4.png" width="100%">
     </a>
 </p>
+<br/>
+<br/>
+<br/>
 
-## Enterprise Flutter architecture to tackle complex Business logic of very large applications
+## Enterprise Flutter architecture for large applications
 
 <p align="center">
     <a href="https://bit.ly/ddd-fluter" target="_blank">
