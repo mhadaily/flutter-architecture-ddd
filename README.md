@@ -7,6 +7,13 @@ Two architecutre for two types of applications:
 - Enterprise
 - Simple
 
+<p align="center">
+    <a href="https://bit.ly/ddd-fluter" target="_blank">
+        <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/1.png" width="100%">
+        <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/2.png" width="100%">
+    </a>
+</p>
+
 ## Simple architecture for smaller application
 
 <p align="center">
@@ -22,8 +29,6 @@ Two architecutre for two types of applications:
 
 <p align="center">
     <a href="https://bit.ly/ddd-fluter" target="_blank">
-        <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/1.png" width="100%">
-        <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/2.png" width="100%">
         <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/3.png" width="100%">
         <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/4.png" width="100%">
         <img src="https://raw.githubusercontent.com/mhadaily/flutter-architecture-ddd/master/images/5.png" width="100%">
