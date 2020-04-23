@@ -1,6 +1,8 @@
-# Domain Driven Design Flutter Architecture inspired by Clean, Onion, Layer architecure
+# Inspired Domain Driven Design Flutter Architecture
 
 Please take a look at my slides to learn more [Strategic Domain Driven Design For Improving Flutter Architecture](https://bit.ly/ddd-flutter)
+
+Disclaimer: heavily inspired by Clean, Onion, Layer architecure
 
 Two architecutre for two types of applications:
 
