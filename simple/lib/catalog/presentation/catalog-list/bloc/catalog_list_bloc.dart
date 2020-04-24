@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
-import 'package:flutter_architecture_ddd/catalog/product_repository.dart';
+import 'package:flutter_architecture_ddd/catalog/logic/product_repository.dart';
 import 'package:flutter_architecture_ddd/data_sources/product_model.dart';
 import './bloc.dart';
 

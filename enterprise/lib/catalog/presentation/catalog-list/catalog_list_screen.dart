@@ -9,9 +9,8 @@ class CatalogListScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider<CatalogListBloc>(
-      builder: (BuildContext context) {
-        return serviceLocator<CatalogListBloc>()..add(FetchCatalogListEvent());
-      },
+      create: (BuildContext context) =>
+          serviceLocator<CatalogListBloc>()..add(FetchCatalogListEvent()),
       child: BlocBuilder<CatalogListBloc, CatalogListState>(
         builder: (BuildContext context, CatalogListState state) {
           if (state is CatalogListLoadedState) {

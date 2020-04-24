@@ -7,4 +7,7 @@ class ServerException implements Equatable {
   call() {
     return null;
   }
+
+  @override
+  bool get stringify => null;
 }
