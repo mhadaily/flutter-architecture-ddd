@@ -8,8 +8,8 @@ Disclaimer: heavily inspired by Clean, Onion, Layer architecure
 
 Two architecutre for two types of applications:
 
-- Simple [Link to Theory](#simple-architecture-for-smaller-application) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/enterprise)
-- Enterprise [Link to Theory](#enterprise-flutter-architecture-for-large-applications) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/simple)
+- Enterprise [Link to Theory](#simple-architecture-for-smaller-application) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/enterprise)
+- Simple [Link to Theory](#enterprise-flutter-architecture-for-large-applications) - [Link to source code](https://github.com/mhadaily/flutter-architecture-ddd/tree/master/simple)
 
 <br/>
 <br/>
